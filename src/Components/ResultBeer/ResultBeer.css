@@ -1,0 +1,46 @@
+.result-card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-bottom: 10px;
+  height: 190px;
+  width: 200px;
+  padding: 10px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.result-beer-div {
+  display: inline-block;
+}
+
+.result-beer-image {
+  height: 132px;
+  width: 34px;
+  display: inline-block;
+  float: left;
+}
+
+.result-beer-name {
+  font-family: 'Arapey', serif;
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.result-beer-tagline {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 16px;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.result-see-more {
+  text-align: center;
+  font-size: 10px;
+}

@@ -1,0 +1,20 @@
+.app-title {
+  text-align: center;
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 100px;
+}
+
+.app-subtitle {
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .app-subtitle {
+    font-size: 25px;
+  }
+  .app-title {
+    font-size: 80px;
+  }
+}

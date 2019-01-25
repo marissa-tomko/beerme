@@ -1,0 +1,18 @@
+.search-bar {
+  margin-bottom: 15px;
+  min-width: 168px;
+}
+
+#food-value {
+  width: 70%;
+  text-align: center;
+  height: 40px;
+}
+
+#submit {
+  width: 30%;
+  min-width: 42px;
+  background-color: white;
+  font-family: 'Arapey', serif;
+  font-size: 25px;
+}
